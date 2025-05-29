@@ -29,8 +29,5 @@
 
 💼 LinkedIn: l....
 
-😄 Pronouns:
-He / Him
-
 ⚡ Fun fact:
 I debug like a detective until my code confesses 
