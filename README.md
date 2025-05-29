@@ -1,12 +1,36 @@
-- 👋 Hi, I’m @Kapil-dollop
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there, I'm Kapil Rathore (@Kapil-dollop)!
+👀 I’m interested in:
+🧠 Building scalable full-stack web applications
 
-<!---
-Kapil-dollop/Kapil-dollop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📱 Microservices and distributed systems
+
+📊 Clean architecture and code optimization
+
+☁️ Cloud deployments and DevOps tools
+
+🌱 I’m currently learning:
+🧩 Spring Boot Microservices Architecture
+
+🔐 JWT & OAuth2 Security
+
+⚙️ Resilience4j (Circuit Breakers, Retries)
+
+📦 Docker & Kubernetes
+
+💞️ I’m looking to collaborate on:
+🚀 Open-source Java/Spring Boot projects
+
+🧪 Innovative frontend ideas with Angular
+
+🔗 API integrations & system design challenges
+
+📫 How to reach me:
+📧 Email: kapilrathore@dollopinfotech.com
+
+💼 LinkedIn: l....
+
+😄 Pronouns:
+He / Him
+
+⚡ Fun fact:
+I debug like a detective until my code confesses 
